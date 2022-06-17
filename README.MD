@@ -2,7 +2,7 @@
 Scrabble Solver - Process review exercise.
 
 # Motivation:
-Create a programmer that given a word, compute the scrabble score for that word.<br> 
+Create a programme that given a word, compute the scrabble score for that word.<br> 
 
 # Requirements: 
 Letter Values<br> 
