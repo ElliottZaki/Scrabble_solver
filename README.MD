@@ -72,4 +72,5 @@ On CML type:<br>
 rspec<br>
 
 # Build status:
-Testing phase.
+Completed - Passing tests.
+Completed - Exercise.
